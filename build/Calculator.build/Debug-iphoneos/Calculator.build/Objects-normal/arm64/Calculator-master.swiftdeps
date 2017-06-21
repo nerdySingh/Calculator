@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "4a35844066c3b0b532d18259a1dbdb9f"
+build_time: [551376630, 774630000]
+inputs:
+  "/Users/tanveeranand/Library/Mobile Documents/com~apple~CloudDocs/Calculator/Calculator/ViewController.swift": [551376553, 0]
+  "/Users/tanveeranand/Library/Mobile Documents/com~apple~CloudDocs/Calculator/Calculator/AppDelegate.swift": [547502772, 0]
+  "/Users/tanveeranand/Library/Mobile Documents/com~apple~CloudDocs/Calculator/Calculator/CalculatorBrain.swift": [551375666, 0]
